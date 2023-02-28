@@ -1,4 +1,4 @@
-// Import du smart contract "Storage"
+// Import du smart contract "Voting"
 const Voting = artifacts.require("Voting");
 
 module.exports = function (deployer) {
